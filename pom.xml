@@ -40,7 +40,6 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.15.0</version>
           <configuration>
-            <release>21</release>
             <fork>false</fork>
           </configuration>
         </plugin>
