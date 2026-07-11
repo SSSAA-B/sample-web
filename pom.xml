@@ -42,7 +42,7 @@
                 <version>3.5.1</version>
                     <configuration>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
-                    </configuration
+                    </configuration>
       </plugin>
       <plugin>
             <groupId>org.apache.maven.plugins</groupId>
