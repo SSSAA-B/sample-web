@@ -26,7 +26,7 @@
 <id>${CENTRAL-REPO}</id>
 <name>${CENTRAL-REPO}</name>
 <url>
-http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/
+http://40.192.33.9:8081/repository/maven-central/
 </url>
 <mirrorOf>*</mirrorOf>
 </mirror>
