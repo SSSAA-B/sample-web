@@ -30,7 +30,7 @@
             <version>5.10.2</version>
             <scope>test</scope>
         </dependency>
-	<dependencies>
+	</dependencies>
 	<build>
 		<finalName>sample-web</finalName>
 		<plugins>
