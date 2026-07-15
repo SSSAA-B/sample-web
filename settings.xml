@@ -26,7 +26,7 @@
 <id>${CENTRAL-REPO}</id>
 <name>${CENTRAL-REPO}</name>
 <url>
-http://40.192.33.9:8081/repository/maven-central/
+https://repo1.maven.org/maven2/
 </url>
 <mirrorOf>*</mirrorOf>
 </mirror>
